@@ -43,6 +43,7 @@ nav span {
   display: inline-block;
   padding: 20px 10px;
   text-decoration: underline;
+  font-weight: bold;
 }
 
 span a {
@@ -75,3 +76,31 @@ h5 {
   background-color: black;
   width: 100%;
 }
+
+/* Store styles */
+
+#store {
+  height: 700px;
+  width: 1000px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+figure {
+  padding: 5px;
+}
+
+figure img {
+  height: 200px;
+  margin: 10px;
+  display: block;
+}
+
+figcaption {
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Location styles */
