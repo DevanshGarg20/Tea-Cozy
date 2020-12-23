@@ -28,7 +28,7 @@ header {
   height: 69px;
   border-bottom: 1px solid seashell;
   align-items: center;
-  background-color: black.;
+  background-color: black;
 }
 header img {
   height: 50px;
@@ -50,3 +50,28 @@ span a {
 }
 
 /* main styles */
+
+main {
+  padding-top: 69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+
+#mission {
+  height: 700px;
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
+  padding-top: 70px;
+}
+
+h2,
+h3,
+h4,
+h5 {
+  padding: 10px;
+}
+.mission-content {
+  margin: auto;
+  background-color: black;
+  width: 100%;
+}
